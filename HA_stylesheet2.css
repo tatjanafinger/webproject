@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+
+body   {
+      background-color: #f43510;
+}
+
+div    {
+      border-radius: 5px;
+}
+
+#left{
+      height: 900px;
+      width: 250 px;
+      float: left;
+      margin-bottom: 10px;
+}
+
+#right{
+      height: 900px;
+      width: 250px;
+      float: rith;
+      margin-bottom: 10px;
+}
+table  {
+      border: #2c0902 2px solid;
+      background-color: #ededed;
+      float: center;
+      margin-right: 10px;
+}
+
+td     {
+      border-top: #2c0902 1px solid;
+      height: 30px;
+      width: 80px;
+{
+
+th     {
+      font-family: Verdana;
+      font-size: 1em;
+      font-weight: bold;
+      color: #030311;
+}

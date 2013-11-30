@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+body   {
+      background-color: #f43510;
+}
+
+
+table  {
+      border: #2c0902 2px solid;
+      background-color: #ededed;
+      /*float: center;*/
+      margin-right: 10px;
+}
+
+td     {
+      border-top: #2c0902 1px solid;
+      height: 30px;
+      width: 80px;
+{
+
+th     {
+      font-family: Verdana;
+      font-size: 1em;
+      font-weight: bold;
+      color: #030311;
+}
